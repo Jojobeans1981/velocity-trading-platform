@@ -8,9 +8,9 @@
 [![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-5-purple)](https://vitejs.dev/)
 
-## 🎯 [View Live Demo](https://velocity-trading-platform.vercel.app)
+## 🎯 [View Live Demo](https://crypto-dash-7wln8vde2-joseph-panettas-projects.vercel.app/)
 
-![VELOCITY Dashboard](./screenshot.png)
+![VELOCITY Dashboard](/public/resources/screenshot.png)
 
 ---
 
