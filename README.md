@@ -1,16 +1,76 @@
-# React + Vite
+# 🚀 Crypto Trading Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional-grade trading interface built with React, demonstrating real-time data visualization and modern frontend best practices.
 
-Currently, two official plugins are available:
+## 🎯 Live Demo
+[View Live Demo](https://crypto-dash-l0048p6qu-joseph-panettas-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+[Dashboard Screenshot](public\resources\screenshot.png)
 
-## React Compiler
+## 🛠️ Tech Stack
+- **React** (with Hooks: useState, useEffect, useMemo)
+- **Vite** - Modern build tool for optimal performance
+- **Recharts** - Real-time data visualization
+- **Tailwind CSS** - Responsive, modern UI design
+- **Lucide React** - Professional icon library
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+- 📊 Real-time price charts with multiple timeframes (1H, 24H, 7D)
+- 💼 Portfolio tracking with P&L calculations
+- 📈 Multi-asset market overview (BTC, ETH, SOL, AVAX)
+- 🎨 Modern, intuitive UI with glassmorphism design
+- ⚡ Optimized performance with React memoization
+- 📱 Fully responsive design
 
-## Expanding the ESLint configuration
+## 🏗️ Technical Highlights
+- **Performance Optimization**: Uses `useMemo` and `useEffect` to prevent unnecessary re-renders
+- **Clean Architecture**: Modular component structure with clear separation of concerns
+- **Real-time Updates**: Simulated live data updates with smooth animations
+- **Scalable**: Easy to extend with WebSocket connections, order execution, or additional technical indicators
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Quick Start
+
+\`\`\`bash
+# Clone the repository
+git clone https://github.com/Jojobeans1981/Crypto-Dash.git
+
+# Install dependencies
+cd Crypto-Dash
+npm install
+
+# Run development server
+npm run dev
+\`\`\`
+
+## 📦 Build for Production
+
+\`\`\`bash
+npm run build
+npm run preview
+\`\`\`
+
+## 🎓 Learning Objectives
+This project demonstrates:
+- Modern React best practices
+- Complex state management
+- Data visualization with charts
+- Responsive UI/UX design
+- Performance optimization techniques
+- Clean, maintainable code structure
+
+## 🔮 Future Enhancements
+- [ ] WebSocket integration for real-time price feeds
+- [ ] Order execution interface
+- [ ] Technical indicators (RSI, MACD, Bollinger Bands)
+- [ ] Historical data analysis
+- [ ] Multi-currency support
+- [ ] Dark/light theme toggle
+
+## 👤 Author
+**Your Name**
+- GitHub: [@Jojobeans1981](https://github.com/Jojobeans1981)
+
+---
+
+Built with ❤️ for modern trading platforms
