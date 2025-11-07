@@ -93,10 +93,10 @@ const CryptoTradingDashboard = () => {
         {/* Header */}
         <header className="flex justify-between items-center mb-6">
           <div>
-            <h1 className="text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">
-              Trading Terminal
+            <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 bg-clip-text text-transparent tracking-tight">
+              VELOCITY
             </h1>
-            <p className="text-slate-400 text-sm mt-1">Real-time crypto market analysis</p>
+            <p className="text-slate-400 text-sm mt-1">Trade at the speed of thought</p>
           </div>
           <button 
             onClick={handleRefresh}

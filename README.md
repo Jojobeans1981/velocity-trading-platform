@@ -6,7 +6,7 @@ A professional-grade trading interface built with React, demonstrating real-time
 [View Live Demo](https://crypto-dash-l0048p6qu-joseph-panettas-projects.vercel.app/)
 
 ## 📸 Screenshot
-[Dashboard Screenshot](public\resources\screenshot.png)
+[Dashboard Screenshot](public/resources/screenshot.png)
 
 ## 🛠️ Tech Stack
 - **React** (with Hooks: useState, useEffect, useMemo)
@@ -68,7 +68,7 @@ This project demonstrates:
 - [ ] Dark/light theme toggle
 
 ## 👤 Author
-**Your Name**
+**Joseph Panetta**
 - GitHub: [@Jojobeans1981](https://github.com/Jojobeans1981)
 
 ---
