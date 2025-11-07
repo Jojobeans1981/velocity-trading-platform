@@ -1,76 +1,62 @@
-# 🚀 Crypto Trading Dashboard
+# ⚡ VELOCITY
 
-A professional-grade trading interface built with React, demonstrating real-time data visualization and modern frontend best practices.
+> Next-generation crypto trading platform built for speed and precision
 
-## 🎯 Live Demo
-[View Live Demo](https://crypto-dash-l0048p6qu-joseph-panettas-projects.vercel.app/)
+**Trade at the speed of thought**
 
-## 📸 Screenshot
-[Dashboard Screenshot](public/resources/screenshot.png)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://velocity-trading-platform.vercel.app)
+[![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Vite-5-purple)](https://vitejs.dev/)
 
-## 🛠️ Tech Stack
-- **React** (with Hooks: useState, useEffect, useMemo)
-- **Vite** - Modern build tool for optimal performance
-- **Recharts** - Real-time data visualization
-- **Tailwind CSS** - Responsive, modern UI design
-- **Lucide React** - Professional icon library
+## 🎯 [View Live Demo](https://velocity-trading-platform.vercel.app)
 
-## ✨ Key Features
-- 📊 Real-time price charts with multiple timeframes (1H, 24H, 7D)
-- 💼 Portfolio tracking with P&L calculations
-- 📈 Multi-asset market overview (BTC, ETH, SOL, AVAX)
-- 🎨 Modern, intuitive UI with glassmorphism design
-- ⚡ Optimized performance with React memoization
-- 📱 Fully responsive design
-
-## 🏗️ Technical Highlights
-- **Performance Optimization**: Uses `useMemo` and `useEffect` to prevent unnecessary re-renders
-- **Clean Architecture**: Modular component structure with clear separation of concerns
-- **Real-time Updates**: Simulated live data updates with smooth animations
-- **Scalable**: Easy to extend with WebSocket connections, order execution, or additional technical indicators
-
-## 🚀 Quick Start
-
-\`\`\`bash
-# Clone the repository
-git clone https://github.com/Jojobeans1981/Crypto-Dash.git
-
-# Install dependencies
-cd Crypto-Dash
-npm install
-
-# Run development server
-npm run dev
-\`\`\`
-
-## 📦 Build for Production
-
-\`\`\`bash
-npm run build
-npm run preview
-\`\`\`
-
-## 🎓 Learning Objectives
-This project demonstrates:
-- Modern React best practices
-- Complex state management
-- Data visualization with charts
-- Responsive UI/UX design
-- Performance optimization techniques
-- Clean, maintainable code structure
-
-## 🔮 Future Enhancements
-- [ ] WebSocket integration for real-time price feeds
-- [ ] Order execution interface
-- [ ] Technical indicators (RSI, MACD, Bollinger Bands)
-- [ ] Historical data analysis
-- [ ] Multi-currency support
-- [ ] Dark/light theme toggle
-
-## 👤 Author
-**Joseph Panetta**
-- GitHub: [@Jojobeans1981](https://github.com/Jojobeans1981)
+![VELOCITY Dashboard](./screenshot.png)
 
 ---
 
-Built with ❤️ for modern trading platforms
+## 🚀 Overview
+
+VELOCITY is a professional-grade trading interface that demonstrates modern frontend engineering excellence. Built with React and optimized for performance, it showcases real-time data visualization and intuitive UX design for complex financial applications.
+
+### Why VELOCITY?
+
+- **⚡ Lightning Fast** - Built with Vite for instant HMR and optimized builds
+- **📊 Real-Time Analytics** - Live price charts with multiple timeframes
+- **🎨 Modern UI/UX** - Glassmorphism design with smooth animations
+- **🔧 Production Ready** - Clean architecture, optimized performance
+- **📱 Fully Responsive** - Works seamlessly across all devices
+
+---
+
+## ✨ Key Features
+
+### Trading Interface
+- 📈 **Multi-Asset Support** - BTC, ETH, SOL, AVAX with real-time price updates
+- ⏱️ **Multiple Timeframes** - 1H, 24H, 7D chart views
+- 💼 **Portfolio Tracking** - Live P&L calculations and performance metrics
+- 📊 **Advanced Charts** - Interactive data visualization with Recharts
+- 🔄 **Live Updates** - Simulated real-time market data
+
+### Technical Excellence
+- ⚡ **Performance Optimized** - React memoization, efficient re-renders
+- 🏗️ **Clean Architecture** - Modular components, separation of concerns
+- 🎯 **Type Safety Ready** - Easy TypeScript migration path
+- 📦 **Modern Build** - Vite with SWC for blazing-fast development
+- 🎨 **Tailwind CSS** - Utility-first styling for rapid development
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| **React 18** | UI framework with modern hooks |
+| **Vite + SWC** | Build tool optimized for speed |
+| **Recharts** | Financial data visualization |
+| **Tailwind CSS** | Utility-first styling |
+| **Lucide React** | Modern icon library |
+
+---
+
+## 🏃‍♂️ Quick Start
+```bash
